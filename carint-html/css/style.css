@@ -861,6 +861,10 @@ a:focus {
   color: #ffffff;
 }
 
+.info_section .info_contact .contact_link_box a span{
+  margin-right: 20px;
+}
+
 .info_section .info_contact .contact_link_box a i {
   margin-right: 5px;
 }
@@ -972,7 +976,7 @@ a:focus {
 .footer_section {
   position: relative;
   background-color: #ffffff;
-  text-align: center;
+  text-align: center
 }
 
 .footer_section p {
